@@ -1,5 +1,6 @@
 # Dowa
 
+backgroundColor: '#fff', for background color
 alignItems: 'center', # is for left, middle or right alignment
 justifyContent: 'center', # is for up, middle, or down alignment
 
