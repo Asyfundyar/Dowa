@@ -1,5 +1,12 @@
 # Dowa
 
+source = # for getting an image from the web
+      {{
+          width: 200,
+          height: 300,
+          uri: "https://picsum.photos/200/300",
+      }}
+
 backgroundColor: '#fff', for background color
 alignItems: 'center', # is for left, middle or right alignment
 justifyContent: 'center', # is for up, middle, or down alignment
