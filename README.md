@@ -1,10 +1,15 @@
 # Dowa
 
+source = # for getting an image locally (does not work for me)
+      {
+            require("./assets/[insert_name_here].png")
+      } 
+
 source = # for getting an image from the web
       {{
           width: 200,
           height: 300,
-          uri: "https://picsum.photos/200/300",
+          uri: "[insert_link_here]",
       }}
 
 backgroundColor: '#fff', for background color
