@@ -35,6 +35,8 @@ justifyContent: 'center', # is for up, middle, or down alignment
 
 To make sure the app content stays within the visible screen use SafeAreaView by first importing it and then replacing View section with it.
 
+To support landscape orientation for your app, change orientation to default in app.json. 
+
 ------------------------------------------------------------------------------------
 
 use CTRL D for multi-cursor editing (select all instances of the same name)
