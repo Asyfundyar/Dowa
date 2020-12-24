@@ -30,8 +30,8 @@ source = # for getting an image from the web
       
 
 backgroundColor: '#fff', for background color
-alignItems: 'center', # is for left, middle or right alignment
-justifyContent: 'center', # is for up, middle, or down alignment
+alignItems: 'center', # is for left, middle or right alignment (primary axis)
+justifyContent: 'center', # is for up, middle, or down alignment (cross axis)
 
 To make sure the app content stays within the visible screen use SafeAreaView by first importing it and then replacing View section with it.
 
