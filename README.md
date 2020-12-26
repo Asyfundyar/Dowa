@@ -26,7 +26,9 @@ source = # for getting an image from the web
       title = "Create a DOWA account" 
       onPress = {() => console.log("Button Clicked.")}
       color = "blue"
-/>      
+/>
+
+
       
 
 backgroundColor: '#fff', for background color
