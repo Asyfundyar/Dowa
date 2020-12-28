@@ -1,5 +1,9 @@
 # Dowa
 
+
+
+
+
 <Text style = {{ 
       color: 'white', 
       fontWeight: '500', 
