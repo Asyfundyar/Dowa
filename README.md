@@ -1,8 +1,7 @@
 # Dowa
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
+![alt text](https://github.com/[asyfundyar]/[dowa]/blob/[branch]/WelcomeP.jpg?raw=true)
 
 <Text style = {{ 
       color: 'white', 
