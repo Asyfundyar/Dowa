@@ -28,8 +28,14 @@ source = # for getting an image from the web
       color = "blue"
 />
 
-
-      
+console.log(Dimensions.get("screen")); # this will output the below for iphone 7
+Running application on iPhone.
+Object {
+  "fontScale": 1,
+  "height": 667,
+  "scale": 2,
+  "width": 375,
+}
 
 backgroundColor: '#fff', for background color
 alignItems: 'center', # is for left, middle or right alignment (primary axis)
