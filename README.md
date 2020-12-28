@@ -1,7 +1,7 @@
 # Dowa
 
 
-![alt text](https://github.com/[asyfundyar]/[dowa]/blob/[branch]/WelcomeP.jpg?raw=true)
+![WelcomeScreen](WelcomeScreen.jpg)
 
 <Text style = {{ 
       color: 'white', 
