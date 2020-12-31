@@ -57,3 +57,4 @@ npm i -s react-native-gesture-handler # What's 'i' and '-s'
 npm start -- --reset-cache
 
 use CTRL D for multi-cursor editing (select all instances of the same name)
+rsf is a shortcut to make a functions component
