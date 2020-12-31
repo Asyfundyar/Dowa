@@ -48,6 +48,10 @@ To make sure the app content stays within the visible screen use SafeAreaView by
 
 To support landscape orientation for your app, change orientation to default in app.json. 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+REACT.JS TIPS AND TRICKS
+
+npm view react-native-gesture-handler versions /* To view all versions of a package */
+npm install react-native-gesture-handler@1.8.0 /* To install a specific version */
 
 use CTRL D for multi-cursor editing (select all instances of the same name)
