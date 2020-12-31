@@ -51,9 +51,9 @@ To support landscape orientation for your app, change orientation to default in 
 -----------------------------------------------------------------------------------------
 REACT.JS TIPS AND TRICKS
 
-npm view react-native-gesture-handler versions # To view all versions of a package
-npm install react-native-gesture-handler@1.8.0 # To install a specific version of a package
-npm i -s react-native-gesture-handler # What's 'i' and '-s'
+npm view react-native-gesture-handler versions # To view all versions of a package                                                                                             
+npm install react-native-gesture-handler@1.8.0 # To install a specific version of a package                                                                                   
+npm i -s react-native-gesture-handler # What's 'i' and '-s'                                                                                                                   
 npm start -- --reset-cache
 
 use CTRL D for multi-cursor editing (select all instances of the same name)
