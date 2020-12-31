@@ -48,6 +48,6 @@ To make sure the app content stays within the visible screen use SafeAreaView by
 
 To support landscape orientation for your app, change orientation to default in app.json. 
 
-------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 use CTRL D for multi-cursor editing (select all instances of the same name)
