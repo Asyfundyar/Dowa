@@ -3,6 +3,8 @@
 
 ![WelcomeScreen](WelcomeScreen.jpg)
 
+source for the bird picture: https://i.pinimg.com/236x/04/c7/15/04c71539d260edce88f420fcfdaeb5c1.jpg
+
 <Text style = {{ 
       color: 'white', 
       fontWeight: '500', 
