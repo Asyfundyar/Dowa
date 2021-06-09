@@ -53,10 +53,20 @@ To support landscape orientation for your app, change orientation to default in 
 -----------------------------------------------------------------------------------------
 REACT.JS TIPS AND TRICKS
 
+i is short for install
+-g is short for global
+      
+npm i -g create-react-app
+
 npm view react-native-gesture-handler versions # To view all versions of a package                                                                                             
 npm install react-native-gesture-handler@1.8.0 # To install a specific version of a package                                                                                   
-npm i -s react-native-gesture-handler # What's 'i' and '-s'                                                                                                                   
+npm i -s react-native-gesture-handler # What's '-s'                                                                                                                   
 npm start -- --reset-cache
 
 use CTRL D for multi-cursor editing (select all instances of the same name)
 rsf is a shortcut to make a functions component
+
+in settings.json
+{
+    "editor.formatOnSave": true
+}
