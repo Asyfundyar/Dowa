@@ -56,7 +56,7 @@ REACT.JS TIPS AND TRICKS
 i is short for install
 -g is short for global
       
-npm i -g create-react-app
+npx create-react-app [non-capital-letter-app-name]
 
 npm view react-native-gesture-handler versions # To view all versions of a package                                                                                             
 npm install react-native-gesture-handler@1.8.0 # To install a specific version of a package                                                                                   
